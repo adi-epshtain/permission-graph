@@ -1,0 +1,46 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE / Editor files
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and local data
+*.log
+
+# Test and coverage output
+.coverage
+.cache/
+pytest_cache/
+
+# Build / Distribution
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Environment variables
+.env
+*.env
+
+
+# MyPy and type checking
+.mypy_cache/
+.dmypy.json
+.pyre/
+
+# Temporary
+tmp/
+temp/
